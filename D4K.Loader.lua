@@ -1,4 +1,4 @@
---[[NCDev Team Evolution]]
+--[[Iron Brew 2]]
 local r = string.byte
 local f = string.char
 local c = string.sub
